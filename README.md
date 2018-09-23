@@ -2,6 +2,11 @@
 ---
 
 ### The JavaScript language
+<details>
+  <summary>
+    Show details
+  </summary>
+  
 ```javascript
 // get content as markdown format from this page https://javascript.info/
 const textContent = (Object.values(document.querySelectorAll('.list__item'))).map( (e) => {
@@ -150,3 +155,7 @@ console.log(textContent.toString());
 * [Promises chaining](https://javascript.info/promise-chaining)
 * [Promise API](https://javascript.info/promise-api)
 * [Async/await](https://javascript.info/async-await)
+
+</details>
+
+
