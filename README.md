@@ -18,7 +18,11 @@ const textContent = (Object.values(document.querySelectorAll('.list__item'))).ma
 });
 console.log(textContent.toString());
 ```
-
+<details>
+  <summary>
+    Show details
+  </summary>
+  
 ##### An introduction
 * [An Introduction to JavaScript](https://javascript.info/intro)
 * [Code editors](https://javascript.info/code-editors)
