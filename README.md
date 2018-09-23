@@ -20,6 +20,12 @@
 * Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 
 
+### ONGOING list
+Redis:
+https://www.youtube.com/watch?v=Hbt56gFj998
+https://www.youtube.com/watch?v=9S-mphgE5fA
+
+
 ### Completed.
 * HTTP 
 * REST - exposes Resources which represent DATA
