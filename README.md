@@ -21,10 +21,6 @@
 
 
 ### ONGOING list
-Redis:
-[Redis](https://www.youtube.com/watch?v=Hbt56gFj998)
-
-[Redis+Nodejs](https://www.youtube.com/watch?v=9S-mphgE5fA)
 
 
 ### Completed.
