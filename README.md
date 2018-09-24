@@ -3,22 +3,33 @@
 (TODO put into different categories)
 
 ### TODO list
-* CURL
-* HTTP 2.0 (Bidirectional) https://http2.github.io/faq/
-  - HPACK Header compression
-  - Server-side resource pushing
-  - Multiplexing via streams and frames
-  - Client/server prioritization
-* HTTPS
-* Socket
-* SSL / OpenSSL
-* Web Latency
-* TCP
-* UDP
-* IP
-* (QUIC protocol)
-* Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
+<details>
+  <summary>
+    Basic knowledge
+  </summary>
+  * CURL
+  * HTTP 2.0 (Bidirectional) https://http2.github.io/faq/
+    - HPACK Header compression
+    - Server-side resource pushing
+    - Multiplexing via streams and frames
+    - Client/server prioritization
+  * HTTPS
+  * Socket
+  * SSL / OpenSSL
+  * Web Latency
+  * TCP
+  * UDP
+  * IP
+  * (QUIC protocol)
+  * Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
+</details>
 
+<details>
+  <summary>
+    Algorithm
+  </summary>
+  TBD
+</details>
 
 ### ONGOING list
 
