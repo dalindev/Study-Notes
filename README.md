@@ -64,26 +64,26 @@ console.log(textContent.toString());
   </summary>
   
 ##### An introduction
-* [An Introduction to JavaScript](https://javascript.info/intro)
-* [Code editors](https://javascript.info/code-editors)
-* [Developer console](https://javascript.info/devtools)
+* [An Introduction to JavaScript](https://javascript.info/intro)✅
+* [Code editors](https://javascript.info/code-editors)✅
+* [Developer console](https://javascript.info/devtools)✅
 ##### JavaScript Fundamentals
-* [Hello, world!](https://javascript.info/hello-world)
-* [Code structure](https://javascript.info/structure)
-* [The modern mode, "use strict"](https://javascript.info/strict-mode)
-* [Variables](https://javascript.info/variables)
+* [Hello, world!](https://javascript.info/hello-world)✅
+* [Code structure](https://javascript.info/structure)✅
+* [The modern mode, "use strict"](https://javascript.info/strict-mode)✅
+* [Variables](https://javascript.info/variables)✅
 * [Data types](https://javascript.info/types)
-* [Type Conversions](https://javascript.info/type-conversions)
-* [Operators](https://javascript.info/operators)
-* [Comparisons](https://javascript.info/comparison)
-* [Interaction: alert, prompt, confirm](https://javascript.info/alert-prompt-confirm)
-* [Conditional operators: if, '?'](https://javascript.info/ifelse)
-* [Logical operators](https://javascript.info/logical-operators)
-* [Loops: while and for](https://javascript.info/while-for)
-* [The "switch" statement](https://javascript.info/switch)
-* [Functions](https://javascript.info/function-basics)
-* [Function expressions and arrows](https://javascript.info/function-expressions-arrows)
-* [JavaScript specials](https://javascript.info/javascript-specials)
+* [Type Conversions](https://javascript.info/type-conversions)✅
+* [Operators](https://javascript.info/operators)✅
+* [Comparisons](https://javascript.info/comparison)✅
+* [Interaction: alert, prompt, confirm](https://javascript.info/alert-prompt-confirm)✅
+* [Conditional operators: if, '?'](https://javascript.info/ifelse)✅
+* [Logical operators](https://javascript.info/logical-operators)✅
+* [Loops: while and for](https://javascript.info/while-for)✅
+* [The "switch" statement](https://javascript.info/switch)✅
+* [Functions](https://javascript.info/function-basics)✅
+* [Function expressions and arrows](https://javascript.info/function-expressions-arrows)✅
+* [JavaScript specials](https://javascript.info/javascript-specials)✅
 ##### Code quality
 * [Debugging in Chrome](https://javascript.info/debugging-chrome)
 * [Coding style](https://javascript.info/coding-style)
