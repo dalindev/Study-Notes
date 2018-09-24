@@ -24,6 +24,12 @@
 * (QUIC protocol)
 * Microservices https://www.youtube.com/watch?v=CZ3wIuvmHeM
 
+* HTTP ✅
+* REST - exposes Resources which represent DATA ✅
+* SOAP - exposes Operations which represent Logic ✅
+* A/B testing https://vwo.com/ab-testing/ ✅
+* Redis: [Redis](https://www.youtube.com/watch?v=Hbt56gFj998), [Redis+Nodejs](https://www.youtube.com/watch?v=9S-mphgE5fA) ✅
+
 </details>
 
 <details>
@@ -34,14 +40,6 @@
 </details>
 
 ### ONGOING list
-
-
-### Completed.
-* HTTP 
-* REST - exposes Resources which represent DATA
-* SOAP - exposes Operations which represent Logic
-* A/B testing https://vwo.com/ab-testing/
-* Redis: [Redis](https://www.youtube.com/watch?v=Hbt56gFj998), [Redis+Nodejs](https://www.youtube.com/watch?v=9S-mphgE5fA)
 
 ### The JavaScript language
 <details>
