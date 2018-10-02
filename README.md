@@ -3,6 +3,52 @@
 (TODO put into different categories)
 
 ### TODO list
+
+<br />
+
+**Common Data Structure Operations -> http://bigocheatsheet.com/**
+      
+* Array ✅
+* Stack ✅
+* Queue ✅
+* Singly-Linked List ✅
+* Doubly-Linked List ✅
+* Skip List
+* Hash Table ‼️✅
+* Binary Search Tree ‼️
+* Cartesian Tree ‼️
+* B-Tree ✅
+* Red-Black Tree
+* Splay Tree
+* AVL Tree
+* KD Tree
+
+
+<br />
+<br />
+
+**Array Sorting Algorithms -> http://bigocheatsheet.com/**
+
+* Quicksort ‼️✅
+* Mergesort ‼️✅
+* Timsort
+* Heapsort
+* Bubble Sort ✅
+* Insertion Sort ✅
+* Selection Sort ✅
+* Tree Sort ‼️
+* Shell Sort
+* Bucket Sort
+* Radix Sort ‼️
+* Counting Sort	‼️
+* Cubesort
+
+
+
+<br />
+<br />
+
+
 <details>
   <summary>
     Basic knowledge
@@ -32,12 +78,13 @@
 
 </details>
 
-<details>
-  <summary>
-    Algorithm
-  </summary>
-  TBD
-</details>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 ### ONGOING list
 
