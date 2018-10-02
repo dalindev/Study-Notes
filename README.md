@@ -48,6 +48,34 @@
 <br />
 <br />
 
+**Blockchain Protocal and Consensus Algorithm** 😃
+
+Protocal (Algorithms)
+
+      * Bitcoin (PoW) ✅
+      * Ethereum (PoW) ✅
+      * NANO (Block-lattice + DPoS + DAG) ‼️✅
+      * EOS (DPoS) ✅
+      * IOTA (DAG + Tangle)✅
+
+<br />
+      
+consensus algorithm
+
+      * PoW ✅
+      * PoS ✅
+      * DPoS ✅
+      * Block-lattice ‼️✅ (DPoS + DAG + Account Blockchain)
+      * DBFT
+      * SBFT
+      * DAG ✅
+      * PoB
+
+
+
+<br />
+<br />
+
 
 <details>
   <summary>
