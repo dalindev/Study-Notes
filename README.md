@@ -1,4 +1,4 @@
-# Study Notes
+# Notes
 ---
 (TODO put into different categories)
 
