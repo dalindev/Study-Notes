@@ -13,7 +13,7 @@
 * Queue ✅
 * Singly-Linked List ✅
 * Doubly-Linked List ✅
-* Skip List
+* Skip List ✅ [link](https://www.youtube.com/watch?v=ypod5jeYzAU)
 * Binary Search Tree ‼️
 * Cartesian Tree ‼️
 * B-Tree (self-balancing tree)
