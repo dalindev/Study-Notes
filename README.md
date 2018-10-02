@@ -14,7 +14,6 @@
 * Singly-Linked List ✅
 * Doubly-Linked List ✅
 * Skip List
-* Hash Table ‼️✅
 * Binary Search Tree ‼️
 * Cartesian Tree ‼️
 * B-Tree (self-balancing tree)
@@ -22,7 +21,12 @@
 * Splay Tree
 * AVL Tree
 * KD Tree
-
+* Hash Table ‼️✅
+* Hash-Set ✅
+* hash-maps
+* dictionary
+* graphs
+* Trie ‼️
 
 <br />
 <br />
@@ -42,6 +46,9 @@
 * Radix Sort ‼️
 * Counting Sort	‼️
 * Cubesort
+
+
+Dijkstra and A*
 
 
 
