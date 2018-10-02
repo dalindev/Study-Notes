@@ -17,7 +17,7 @@
 * Hash Table ‼️✅
 * Binary Search Tree ‼️
 * Cartesian Tree ‼️
-* B-Tree ✅
+* B-Tree (self-balancing tree)
 * Red-Black Tree
 * Splay Tree
 * AVL Tree
