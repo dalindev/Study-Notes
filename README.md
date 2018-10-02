@@ -52,24 +52,24 @@
 
 Protocal (Algorithms)
 
-      * Bitcoin (PoW) ✅
-      * Ethereum (PoW) ✅
-      * NANO (Block-lattice + DPoS + DAG) ‼️✅
-      * EOS (DPoS) ✅
-      * IOTA (DAG + Tangle)✅
+* Bitcoin (PoW) ✅
+* Ethereum (PoW) ✅
+* NANO (Block-lattice + DPoS + DAG) ‼️✅
+* EOS (DPoS) ✅
+* IOTA (DAG + Tangle)✅
 
 <br />
       
 consensus algorithm
 
-      * PoW ✅
-      * PoS ✅
-      * DPoS ✅
-      * Block-lattice ‼️✅ (DPoS + DAG + Account Blockchain)
-      * DBFT
-      * SBFT
-      * DAG ✅
-      * PoB
+* PoW ✅
+* PoS ✅
+* DPoS ✅
+* Block-lattice ‼️✅ (DPoS + DAG + Account Blockchain)
+* DBFT
+* SBFT
+* DAG ✅
+* PoB
 
 
 
