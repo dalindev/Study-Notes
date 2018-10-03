@@ -172,16 +172,16 @@ console.log(textContent.toString());
 * [Function expressions and arrows](https://javascript.info/function-expressions-arrows)✅
 * [JavaScript specials](https://javascript.info/javascript-specials)✅
 ##### Code quality
-* [Debugging in Chrome](https://javascript.info/debugging-chrome)
-* [Coding style](https://javascript.info/coding-style)
-* [Comments](https://javascript.info/comments)
-* [Ninja code](https://javascript.info/ninja-code)
-* [Automated testing with mocha](https://javascript.info/testing-mocha)
+* [Debugging in Chrome](https://javascript.info/debugging-chrome)✅
+* [Coding style](https://javascript.info/coding-style)✅
+* [Comments](https://javascript.info/comments)✅
+* [Ninja code](https://javascript.info/ninja-code)✅
+* [Automated testing with mocha](https://javascript.info/testing-mocha)✅
 * [Polyfills](https://javascript.info/polyfills)
 ##### Objects: the basics
-* [Objects](https://javascript.info/object)
-* [Garbage collection](https://javascript.info/garbage-collection)
-* [Symbol type](https://javascript.info/symbol)
+* [Objects](https://javascript.info/object)✅
+* [Garbage collection](https://javascript.info/garbage-collection)✅
+* [Symbol type](https://javascript.info/symbol)✅
 * [Object methods, "this"](https://javascript.info/object-methods)
 * [Object to primitive conversion](https://javascript.info/object-toprimitive)
 * [Constructor, operator "new"](https://javascript.info/constructor-new)
