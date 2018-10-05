@@ -14,9 +14,9 @@
 * Singly-Linked List ✅
 * Doubly-Linked List ✅
 * Skip List ✅ [link](https://www.youtube.com/watch?v=ypod5jeYzAU)
-* Binary Search Tree ‼️
+* Binary Search Tree ✅‼️
 * Cartesian Tree ‼️
-* B-Tree (self-balancing tree)
+* B-Tree (self-balancing tree) ✅
 * Red-Black Tree
 * Splay Tree
 * AVL Tree
