@@ -23,7 +23,7 @@
 * KD Tree
 * Hash Table ‼️✅
 * Hash-Set ✅
-* hash-maps
+* hash-maps ✅
 * dictionary
 * graphs
 * Trie ‼️
