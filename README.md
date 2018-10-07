@@ -238,10 +238,10 @@ console.log(textContent.toString());
 * [Window sizes and scrolling](https://javascript.info/size-and-scroll-window)
 * [Coordinates](https://javascript.info/coordinates)
 ##### Introduction into Events
-* [Introduction to browser events](https://javascript.info/introduction-browser-events)
-* [Bubbling and capturing](https://javascript.info/bubbling-and-capturing)
-* [Event delegation](https://javascript.info/event-delegation)
-* [Browser default actions](https://javascript.info/default-browser-action)
+* [Introduction to browser events](https://javascript.info/introduction-browser-events) 
+* [Bubbling and capturing](https://javascript.info/bubbling-and-capturing) ✅
+* [Event delegation](https://javascript.info/event-delegation) ✅
+* [Browser default actions](https://javascript.info/default-browser-action) 
 * [Dispatching custom events](https://javascript.info/dispatch-events)
 ##### Events in details
 * [Mouse events basics](https://javascript.info/mouse-events-basics)
