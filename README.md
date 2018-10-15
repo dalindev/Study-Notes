@@ -101,7 +101,7 @@ TBD
 * Redis: [Redis](https://www.youtube.com/watch?v=Hbt56gFj998), [Redis+Nodejs](https://www.youtube.com/watch?v=9S-mphgE5fA) ✅
 
 * CURL
-* HTTP 2.0 (Bidirectional) https://http2.github.io/faq/
+* HTTP 2.0 (Bidirectional) https://http2.github.io/faq/ ✅
   - HPACK Header compression
   - Server-side resource pushing
   - Multiplexing via streams and frames
@@ -182,24 +182,24 @@ console.log(textContent.toString());
 * [Objects](https://javascript.info/object)✅
 * [Garbage collection](https://javascript.info/garbage-collection)✅
 * [Symbol type](https://javascript.info/symbol)✅
-* [Object methods, "this"](https://javascript.info/object-methods)
-* [Object to primitive conversion](https://javascript.info/object-toprimitive)
-* [Constructor, operator "new"](https://javascript.info/constructor-new)
+* [Object methods, "this"](https://javascript.info/object-methods) ✅
+* [Object to primitive conversion](https://javascript.info/object-toprimitive) ✅
+* [Constructor, operator "new"](https://javascript.info/constructor-new) ✅
 ##### Data types
-* [Methods of primitives](https://javascript.info/primitives-methods)
-* [Numbers](https://javascript.info/number)
-* [Strings](https://javascript.info/string)
-* [Arrays](https://javascript.info/array)
-* [Array methods](https://javascript.info/array-methods)
-* [Iterables](https://javascript.info/iterable)
-* [Map, Set, WeakMap and WeakSet](https://javascript.info/map-set-weakmap-weakset)
-* [Object.keys, values, entries](https://javascript.info/keys-values-entries)
-* [Destructuring assignment](https://javascript.info/destructuring-assignment)
-* [Date and time](https://javascript.info/date)
-* [JSON methods, toJSON](https://javascript.info/json)
+* [Methods of primitives](https://javascript.info/primitives-methods) ✅
+* [Numbers](https://javascript.info/number) ✅
+* [Strings](https://javascript.info/string) ✅
+* [Arrays](https://javascript.info/array) ✅
+* [Array methods](https://javascript.info/array-methods) ✅
+* [Iterables](https://javascript.info/iterable) ✅
+* [Map, Set, WeakMap and WeakSet](https://javascript.info/map-set-weakmap-weakset) ✅
+* [Object.keys, values, entries](https://javascript.info/keys-values-entries) ✅
+* [Destructuring assignment](https://javascript.info/destructuring-assignment) ✅
+* [Date and time](https://javascript.info/date) ✅
+* [JSON methods, toJSON](https://javascript.info/json) ✅
 ##### Advanced working with functions
-* [Recursion and stack](https://javascript.info/recursion)
-* [Rest parameters and spread operator](https://javascript.info/rest-parameters-spread-operator)
+* [Recursion and stack](https://javascript.info/recursion) ✅
+* [Rest parameters and spread operator](https://javascript.info/rest-parameters-spread-operator) ✅
 * [Closure](https://javascript.info/closure)
 * [The old "var"](https://javascript.info/var)
 * [Global object](https://javascript.info/global-object)
