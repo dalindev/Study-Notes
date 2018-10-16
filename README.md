@@ -48,7 +48,7 @@
 * Cubesort
 
 
-Dijkstra and A*
+* Dijkstra
 
 
 
