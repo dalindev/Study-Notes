@@ -46,9 +46,7 @@
 * Radix Sort ‼️✅
 * Counting Sort ‼️✅
 * Cubesort
-
-
-* Dijkstra
+* Dijkstra ✅
 
 
 
