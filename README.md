@@ -24,9 +24,9 @@
 * Hash Table ‼️✅
 * Hash-Set ✅
 * hash-maps ✅
-* dictionary
+* dictionary ✅
 * graphs
-* Trie ‼️
+* Trie ‼️✅
 
 <br />
 <br />
@@ -42,7 +42,7 @@
 * Selection Sort ✅
 * Tree Sort ‼️✅
 * Shell Sort
-* Bucket Sort
+* Bucket Sort ✅
 * Radix Sort ‼️✅
 * Counting Sort ‼️✅
 * Cubesort
@@ -86,6 +86,15 @@ TBD
 
 <br />
 <br />
+
+**NodeJS !!!**
+[High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
+
+
+
+<br />
+<br />
+
 
 <details>
   <summary>
