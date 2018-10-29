@@ -88,7 +88,10 @@ TBD
 <br />
 
 ### NodeJS !!!
-[High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
+* [High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
+* [Getting Your PageSpeed Score Up](https://www.youtube.com/watch?v=pNKnhBIVj4w) 
+
+
 
 
 
