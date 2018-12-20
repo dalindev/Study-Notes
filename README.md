@@ -17,7 +17,7 @@
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/dalinhuang99/Study-Notes/blob/master/books/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf)
 
 ### Coding Skills
-  * [LeetCode](https://github.com/dalinhuang99/LeetCode)
+  * [LeetCode](https://github.com/dalinhuang99/LeetCode) (My github repo for solved problems)
   * [LintCode](https://www.lintcode.com/)
 
 Other:
