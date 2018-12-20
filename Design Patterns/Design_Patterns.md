@@ -39,7 +39,19 @@
 
 ### Structural Patterns
 > "How should classes behave and interact with each other?"
-* Decorator
+*   <details>
+    <summary>Decorator</summary>
+    <ul>
+    <li>When to use?
+    <ul>
+    <li>When a class is constantly being modified to implement new interfaces</li>
+    </ul>
+    </li>
+    <li>Decorators should be independent of each other</li>
+    <li>Use the decorator pattern when you have lots of objects each with a specific behavior independent of all others</li>
+    <li>For example, use decorator to check specific user role before the end point method can be used</i></li>
+    <ul>
+    </details>
 * Adapter
 * Facade
 * Composite
