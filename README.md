@@ -20,6 +20,12 @@
   * [LeetCode](https://github.com/dalinhuang99/LeetCode) (My github repo for solved problems)
   * [LintCode](https://www.lintcode.com/)
 
+### Design Patterns
+  * [Design Patterns]()
+
+
+---
+
 Other:
 
 * HTTP 2.0 (Bidirectional) https://http2.github.io/faq/ ✅
