@@ -88,8 +88,16 @@ TBD
 <br />
 
 ### NodeJS !!!
+<<<<<<< HEAD
 [High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
 [The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft](https://www.youtube.com/watch?v=zphcsoSJMvM) 
+=======
+* [High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
+* [Getting Your PageSpeed Score Up](https://www.youtube.com/watch?v=pNKnhBIVj4w) 
+
+
+
+>>>>>>> 608256a8cdd92673575f75c81c91b4239853700e
 
 
 <br />
