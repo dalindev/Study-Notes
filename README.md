@@ -21,7 +21,7 @@
   * [LintCode](https://www.lintcode.com/)
 
 ### Design Patterns
-  * [Design Patterns]()
+  * [Design Patterns](https://github.com/dalinhuang99/Study-Notes/blob/master/Design%20Patterns/Design_Patterns.md)
 
 
 ---
