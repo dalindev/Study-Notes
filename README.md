@@ -89,7 +89,7 @@ TBD
 
 ### NodeJS !!!
 [High Performance JS in V8 [I] - Peter Marshall, Google](https://www.youtube.com/watch?v=YqOhBezMx1o) 
-
+[The Node.js Event Loop: Not So Single Threaded - Bryan Hughes, Microsoft](https://www.youtube.com/watch?v=zphcsoSJMvM) 
 
 
 <br />
