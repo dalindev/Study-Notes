@@ -1,9 +1,9 @@
 # Design Principles
-> 1. Rely on Interfaces not implementations
-> 2. The Open/Close Principle
-> 3. Principle of Least Knowledge
-> 4. Dependency Inversion
-> 5. Hollywood Principle
+1. Rely on Interfaces not implementations
+2. The Open/Close Principle
+3. Principle of Least Knowledge
+4. Dependency Inversion
+5. Hollywood Principle
 
 # Design Patterns
 
