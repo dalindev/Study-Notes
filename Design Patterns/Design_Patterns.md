@@ -90,10 +90,10 @@ Also:
 
 
 ### Sources
-[Software design pattern (Wikipedia)](https://en.wikipedia.org/wiki/Software_design_pattern)
-[Design Patterns (www.tutorialspoint.com)](https://www.tutorialspoint.com/design_pattern/index.htm)
-[Design Patterns Questions and Answers](https://www.tutorialspoint.com/design_pattern/design_pattern_questions_answers.htm)
-[Design Pattern - Interview Questions](https://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
+[Software design pattern (Wikipedia)](https://en.wikipedia.org/wiki/Software_design_pattern)<br>
+[Design Patterns (www.tutorialspoint.com)](https://www.tutorialspoint.com/design_pattern/index.htm)<br>
+[Design Patterns Questions and Answers](https://www.tutorialspoint.com/design_pattern/design_pattern_questions_answers.htm)<br>
+[Design Pattern - Interview Questions](https://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)<br>
 
 
 ### Criticism
