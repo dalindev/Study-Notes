@@ -22,14 +22,65 @@ Also:
 
 # Design Patterns
 
+>Note:
+❗ = important
+
 ### Creational Patterns
 > "How should objects be created"
-* Factory
-* Abstract Factory
-* Singleton
-* Builder
-* Prototype
-* Dependency Injection
+<details>
+    <summary>Abstract Factory❗</summary>
+    <blockquote> Provide an interface for creating families of related or dependent objects without specifying their concrete classes.</blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+<details>
+    <summary>Builder❗</summary>
+    <blockquote>
+    Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
+    </blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+<details>
+    <summary>Dependency Injection</summary>
+    <blockquote>
+    A class accepts the objects it requires from an injector instead of creating the objects directly.
+    </blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+<details>
+    <summary>Factory method❗</summary>
+    <blockquote>
+    Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+    </blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+<!-- * Factory ❗❗ -->
+<details>
+    <summary>Prototype❗</summary>
+    <blockquote>
+    Specify the kinds of objects to create using a prototypical instance, and create new objects from the 'skeleton' of an existing object, thus boosting performance and keeping memory footprints to a minimum.
+    </blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+<details>
+    <summary>Singleton❗</summary>
+    <blockquote>
+    Ensure a class has only one instance, and provide a global point of access to it.
+    </blockquote>
+    <!-- <ul>
+    <li></li>
+    <ul> -->
+</details>
+
 
 
 ### Structural Patterns
