@@ -22,88 +22,37 @@ Also:
 
 # Design Patterns
 
->Note:
-❗ = important
+>Note: ❗ == important
 
 ### Creational Patterns
 > "How should objects be created"
-<details>
-    <summary>Abstract Factory❗</summary>
-    <blockquote> Provide an interface for creating families of related or dependent objects without specifying their concrete classes.</blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
-<details>
-    <summary>Builder❗</summary>
-    <blockquote>
-    Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
-    </blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
-<details>
-    <summary>Dependency Injection</summary>
-    <blockquote>
-    A class accepts the objects it requires from an injector instead of creating the objects directly.
-    </blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
-<details>
-    <summary>Factory method❗</summary>
-    <blockquote>
-    Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
-    </blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
-<!-- * Factory ❗❗ -->
-<details>
-    <summary>Prototype❗</summary>
-    <blockquote>
-    Specify the kinds of objects to create using a prototypical instance, and create new objects from the 'skeleton' of an existing object, thus boosting performance and keeping memory footprints to a minimum.
-    </blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
-<details>
-    <summary>Singleton❗</summary>
-    <blockquote>
-    Ensure a class has only one instance, and provide a global point of access to it.
-    </blockquote>
-    <!-- <ul>
-    <li></li>
-    <ul> -->
-</details>
 
+| Name                 | Description                                                                                                                                                                                                   | Example | Important |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | :-------: |
+| Abstract Factor      | Provide an interface for creating families of related or dependent objects without specifying their concrete classes                                                                                          |         |    ❗❗     |
+| Builder              | Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.                                                              |         |     ❗     |
+| Dependency Injection | A class accepts the objects it requires from an injector instead of creating the objects directly.                                                                                                            |         |           |
+| Factory method       | Define an interface for creating a single object, but let subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.                                        |         |    ❗❗     |
+| Prototype            | Specify the kinds of objects to create using a prototypical instance, and create new objects from the 'skeleton' of an existing object, thus boosting performance and keeping memory footprints to a minimum. |         |     ❗     |
+| Singleton            | Ensure a class has only one instance, and provide a global point of access to it.                                                                                                                             |         |    ❗❗     |
+
+
+<!-- * Factory ❗❗ -->
 
 
 ### Structural Patterns
 > "How should classes behave and interact with each other?"
-*   <details>
-    <summary>Decorator</summary>
-    <ul>
-    <li>When to use?
-    <ul>
-    <li>When a class is constantly being modified to implement new interfaces</li>
-    </ul>
-    </li>
-    <li>Decorators should be independent of each other</li>
-    <li>Use the decorator pattern when you have lots of objects each with a specific behavior independent of all others</li>
-    <li>For example, use decorator to check specific user role before the end point method can be used</i></li>
-    <ul>
-    </details>
-* Adapter
-* Facade
-* Composite
-* Flyweight
-* Bridge
-* Proxy
+
+| Name                            | Description                                                                                                                                                                                                                                 | Example | Important |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | :-------: |
+| Adapter, Wrapper, or Translator | Convert the interface of a class into another interface clients expect. An adapter lets classes work together that could not otherwise because of incompatible interfaces. The enterprise integration pattern equivalent is the translator. |         |    ❗❗     |
+| Bridge                          | Decouple an abstraction from its implementation allowing the two to vary independently.                                                                                                                                                     |         |           |
+| Composite                       | Compose objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.                                                                            |         |           |
+| Decorator                       | Attach additional responsibilities to an object dynamically keeping the same interface. Decorators provide a flexible alternative to subclassing for extending functionality.                                                               |         |           |
+| Facade                          | Provide a unified interface to a set of interfaces in a subsystem. Facade defines a higher-level interface that makes the subsystem easier to use.                                                                                          |         |           |
+| Flyweight                       | Use sharing to support large numbers of similar objects efficiently.                                                                                                                                                                        |         |           |
+| Proxy                           |
+
 
 
 ### Behavioral Patterns
