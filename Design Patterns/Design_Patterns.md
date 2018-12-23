@@ -74,6 +74,7 @@ Also:
 
 ### Concurrency Patterns
 > "How should a specific situation be handled under multi-threading?"
+
 | Name                    | Description                                                                                                                                                                                                           | Example | Important |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | :-------: |
 | Active Object           | Decouples method execution from method invocation that reside in their own thread of control. The goal is to introduce concurrency, by using asynchronous method invocation and a scheduler for handling requests.    |         |           |
