@@ -19,7 +19,7 @@
 import math
 
 # Iterative implementation of Binary Search
-def binarySearch(arr, x):
+def binarySearchIterative(arr, x):
     l = 0
     r = len(arr) - 1
     while l < r:
@@ -39,12 +39,39 @@ def binarySearch(arr, x):
 int_arr = [ 2, 3, 4, 10, 40 ]
 target = 10
 
+"""
+idx   0  1  2  3   4
+    [ 2, 3, 4, 10, 40 ]
+
+"""
 # Function call
-result = binarySearch(int_arr, target)
+result = binarySearchIterative(int_arr, target)
+
 
 if result != -1:
-    print("Element is present at index {}".format(result))
+    print("(Iterative) Element is present at index {}".format(result))
 else:
-    print("Element is not present in array")
+    print("(Iterative) Element is not present in array")
 
 # Recursive implementation of Binary Search
+def binarySearchRecursive(arr, x, l, r):
+    if r >= 1:
+        mid = int((l+r)/2)
+
+        if arr[mid] == x:
+            return mid
+        elif arr[mid] < x:
+            return binarySearchRecursive(arr, x, mid+1, r)
+        else:
+            return binarySearchRecursive(arr, x, l, mid-1)
+    else:
+        return -1
+
+# Function call
+result2 = binarySearchRecursive(int_arr, target, 0, len(int_arr)-1)
+
+
+if result2 != -1:
+    print("(Recursive) Element is present at index {}".format(result2))
+else:
+    print("(Recursive) Element is not present in array")
