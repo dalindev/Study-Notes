@@ -20,23 +20,26 @@
 * Timsort
 * Radix Sort
 
+## Greedy Algorithms
+
 ## Dynamic Programming
+
+## Pattern Searching
+* KMP (Knuth–Morris–Pratt) string search
 
 ## Backtracking
 
-## Greedy Algorithms
+## Divide and Conquer
+
+## Geometric Algorithms
 
 ## Mathematical Algorithms
 
+## Bit Algorithms
+
 ## Graph Algorithms
-
-## Divide and Conquer
-
-## Shortest path
 * Dijkstra
 
-## String search
-* KMP (Knuth–Morris–Pratt) string search
 
 
 

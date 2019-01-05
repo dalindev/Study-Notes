@@ -3,8 +3,18 @@
 
 ### Algorithms
   * [Algorithms](https://github.com/dalinhuang99/Study-Notes/blob/master/Algorithms/Algorithms.md)
+    - Search Algorithms
+    - Sorting Algorithms
+    - Greedy Algorithms
+    - Dynamic Programming
+    - Pattern Searching
+    - Backtracking
+    - Divide and Conquer
+    - Geometric Algorithms
+    - Mathematical Algorithms
+    - Bit Algorithms
+    - Graph Algorithms
   * [Blockchain Consensus Algorithm](https://github.com/dalinhuang99/Study-Notes/blob/master/Algorithms/Blockchain_Consensus_Algorithm.md)
-  * [Sorting Algorithms](https://github.com/dalinhuang99/Study-Notes/blob/master/Algorithms/Sorting_Algorithms.md)
 
 ### Books
   * [Design Patterns: Elements of Reusable Object-Oriented Software](https://github.com/dalinhuang99/Study-Notes/blob/master/books/Erich%20Gamma%2C%20Richard%20Helm%2C%20Ralph%20Johnson%2C%20John%20M.%20Vlissides-Design%20Patterns_%20Elements%20of%20Reusable%20Object-Oriented%20Software%20%20-Addison-Wesley%20Professional%20(1994).pdf)
