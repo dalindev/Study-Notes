@@ -1,6 +1,6 @@
 # Blockchain Protocal and Consensus Algorithm 😃
 
-## Protocal (Algorithms)
+## Protocal
 
 * Bitcoin (PoW)
 * Ethereum (PoW)
