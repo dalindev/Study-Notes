@@ -20,7 +20,7 @@
 * Splay Tree
 * AVL Tree
 * KD Tree
-* Cartesian Tree ‼️
+* Cartesian Tree
 * [Skip List](https://www.youtube.com/watch?v=ypod5jeYzAU)
 
 
