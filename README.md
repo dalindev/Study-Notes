@@ -23,7 +23,7 @@
   * [LeetCode](https://github.com/dalinhuang99/LeetCode) (My github repo for solved problems)
   * [LintCode](https://www.lintcode.com/)
 
-### Cyber Attacks
+### Cyber Attacks 🐱‍💻
   * [Cyber Attacks](https://github.com/dalinhuang99/Study-Notes/blob/master/Cyber%20Attacks/Cyber_Attacks.md)
 
 ### Data Structures
